@@ -1,8 +1,7 @@
-- Hi, I’m @KimiRaikkonen7
-- I’m interested in helping testing minecraft mods, clients, custom version, etc
-- I’m currently learning java, lua, c++
-- I’m looking to collaborate on minecraft mods, clients, custom version creator as an tester to their mods, clients, custom version, etc
-- How to teach me learn java, lua, c++
+# Hello, Who are you and why you here?
+
+![KimiRaikkonen7 Stats](https://github-readme-stats.vercel.app/api?username=KimiRaikkonen7&theme=tokyonight&show_icons=true)
+
 
 <!---
 deanaltha/deanaltha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
