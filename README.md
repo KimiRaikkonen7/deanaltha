@@ -1,5 +1,6 @@
 # Hello, Who are you and why you here?
-![Badge](https://img.shields.io/badge/(MA)FIA-Staff-informational?style=for-the-badge&logo=appveyor)
+![Badge](https://img.shields.io/badge/(MA)FIA-Staff-informational?style=for-the-badge&logo=appveyor&logo=)
+![Badge](https://img.shields.io/badge/Formuladank-Discord-informational?style=for-the-badge&logo=appveyor&logo=&link=discord.gg/formuladank)
 ####
 ![KimiRaikkonen7 Stats](https://github-readme-stats.vercel.app/api?username=KimiRaikkonen7&theme=tokyonight&show_icons=true)
 ####
