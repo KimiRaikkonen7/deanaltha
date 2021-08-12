@@ -1,5 +1,5 @@
 # Hello, Who are you and why you here?
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 #### 
 ![KimiRaikkonen7 Stats](https://github-readme-stats.vercel.app/api?username=KimiRaikkonen7&theme=tokyonight&show_icons=true)
 <!---
