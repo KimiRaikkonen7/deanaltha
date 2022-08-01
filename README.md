@@ -1,4 +1,4 @@
-# Hello, Who are you and why you here?
+# Hello, Who are you and why are you here?
 ![Badge](https://img.shields.io/badge/(MA)FIA-Staff-informational?style=for-the-badge&logo=appveyor&logo=)
 
 ####
